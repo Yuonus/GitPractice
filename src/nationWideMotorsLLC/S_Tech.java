@@ -6,5 +6,6 @@ public class S_Tech {
 		StringBuilder sb = new StringBuilder("CBA");
 		sb.reverse();
 		System.out.println(sb);
+		System.out.println("You dont need to use the toString() method");
 	}
 }
