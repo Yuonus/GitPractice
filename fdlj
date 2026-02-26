@@ -1,0 +1,102 @@
+[33mcommit a1a0c6b2b2c3aa24dea6b6002879093487ff2787[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 255837b dc88772
+Author: Sabawoon Yuonus <98427925+Yuonus@users.noreply.github.com>
+Date:   Thu Feb 26 12:29:40 2026 -0500
+
+    Merge pull request #4 from Yuonus/love
+    
+    Love
+
+[33mcommit dc88772150386510afca6a4ff54d6e57627ace1a[m[33m ([m[1;31morigin/love[m[33m, [m[1;32mlove[m[33m)[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Thu Feb 26 12:29:42 2026 -0500
+
+    the Love class was created successfully
+
+[33mcommit 14c14c85bd16cf3fd8202589c48224cc37577431[m
+Merge: bd91260 255837b
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Thu Feb 26 12:24:18 2026 -0500
+
+    Merge branch 'master' of https://github.com/Yuonus/GitPractice
+
+[33mcommit bd912601d46e2211899d022297b4c018ec7a835d[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Thu Feb 26 12:23:39 2026 -0500
+
+    added
+
+[33mcommit 255837bceb4b716a6dd7de07859315041e30f828[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Wed Feb 25 13:22:20 2026 -0500
+
+    Class was added
+
+[33mcommit 7b689afb7169dc2565984d6decdaddeccf0e198f[m[33m ([m[1;32mtesting[m[33m)[m
+Merge: 759ac32 95f8a15
+Author: Sabawoon Yuonus <98427925+Yuonus@users.noreply.github.com>
+Date:   Tue Feb 24 14:08:49 2026 -0500
+
+    Merge pull request #3 from Yuonus/testing
+    
+    added
+
+[33mcommit 95f8a15c040ee3e6ebc02ee13d6633008d12ffb6[m[33m ([m[1;31morigin/testing[m[33m)[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Tue Feb 24 14:08:34 2026 -0500
+
+    added
+
+[33mcommit 759ac32db1ec7ebae027326ebcfb43325021c12f[m
+Merge: adba84a 483185a
+Author: Sabawoon Yuonus <98427925+Yuonus@users.noreply.github.com>
+Date:   Tue Feb 24 14:00:03 2026 -0500
+
+    Merge pull request #2 from Yuonus/util
+    
+    Newly added class to the Util branch
+
+[33mcommit 483185a6eb12c7003cadfe821ffd42b93c81ce73[m[33m ([m[1;31morigin/util[m[33m, [m[1;32mutil[m[33m)[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Tue Feb 24 13:54:54 2026 -0500
+
+    Newly added class to the Util branch
+
+[33mcommit adba84ab8cb0ff3fda264f45c4795358aeb9aa99[m
+Merge: fbc49db 42d74e4
+Author: Sabawoon Yuonus <98427925+Yuonus@users.noreply.github.com>
+Date:   Tue Feb 24 12:16:55 2026 -0500
+
+    Merge pull request #1 from Yuonus/featureBranch
+    
+    New class was added
+
+[33mcommit 42d74e48c1e71bb6cf7f3d340c99b6785628dcd5[m[33m ([m[1;31morigin/featureBranch[m[33m, [m[1;32mfeatureBranch[m[33m)[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Tue Feb 24 12:10:33 2026 -0500
+
+    New class was added
+
+[33mcommit fbc49db72a3f061681a1663ceffe4b036b2b2263[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Tue Feb 24 11:41:14 2026 -0500
+
+    S class was removed
+
+[33mcommit 7ceef2aced8f9231ea7713bedcd6ce6362f7b3ff[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Tue Feb 24 11:40:08 2026 -0500
+
+    Some files were modified and some new files were created
+
+[33mcommit 8cf06b61f9e93a727c84145f4277087c4ce1c65f[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Tue Feb 24 11:38:28 2026 -0500
+
+    The second change was added successfully
+
+[33mcommit 368cab661236d72616e046fba863be6929cdcaab[m
+Author: Yuonus <syuonus@ndc.nasa.gov>
+Date:   Tue Feb 24 11:31:44 2026 -0500
+
+    First commit of the repo
